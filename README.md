@@ -1,2 +1,5 @@
 # InternetOfLiving
-connecting cryptocurrencies with our daiyly life.
+connecting cryptocurrencies with our daily life.
+
+
+supported by Bitcoin, IOTA, Ethereum
