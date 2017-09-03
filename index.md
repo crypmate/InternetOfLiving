@@ -3,7 +3,6 @@
 </head>
 <body class="internet of things">
 
-<h8 style="text-align:center;"> Yes  </h8>
 
 Feel free to donate if you want to support this project:
 <br><br>
