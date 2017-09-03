@@ -3,10 +3,10 @@
 </head>
 <body class="internet of things">
 
-<h22 style="text-align:center;">
+<h8 style="text-align:center;">
 
 
-Feel free to donate if you want to support this project.
+Feel free to donate if you want to support this project:
 <br><br>
 Bitcoin: coming soon
 <br><br>
@@ -15,7 +15,7 @@ Ethereum: 0x39f9fa7e1B85000005F94a0b092dAF2891373344
 IOTA: XTJNMRNMIMEDYKBBWTWXUPYQOUBSENETNYUXKMOWFEIV9OSCHUQAXOLBDVHVVWUXBRZSWJFZNBLOEYZAYUKLGMIMID
 <br><br>
 
-</h22>
+</h8>
 </body>
 </html>
 
