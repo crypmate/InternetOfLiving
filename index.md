@@ -2,7 +2,7 @@
 <head>
 </head>
 <body class="internet of things">
-<font size="1">
+
 <h8 style="text-align:center;">
 
 Feel free to donate if you want to support this project:
@@ -15,7 +15,7 @@ IOTA: XTJNMRNMIMEDYKBBWTWXUPYQOUBSENETNYUXKMOWFEIV9OSCHUQAXOLBDVHVVWUXBRZSWJFZNB
 <br><br>
 
 </h8>
-</font> 
+
 </body>
 </html>
 
