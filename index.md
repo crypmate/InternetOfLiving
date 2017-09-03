@@ -3,7 +3,7 @@
 </head>
 <body class="internet of things">
 
-<h8 style="text-align:center;">
+<h8 style="text-align:center;"> Yes  </h8>
 
 Feel free to donate if you want to support this project:
 <br><br>
@@ -14,7 +14,7 @@ Ethereum: 0x39f9fa7e1B85000005F94a0b092dAF2891373344
 IOTA: XTJNMRNMIMEDYKBBWTWXUPYQOUBSENETNYUXKMOWFEIV9OSCHUQAXOLBDVHVVWUXBRZSWJFZNBLOEYZAYUKLGMIMID
 <br><br>
 
-</h8>
+
 
 </body>
 </html>
