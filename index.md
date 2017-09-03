@@ -6,10 +6,13 @@
 
 
 Feel free to donate if you want to support this project.
-
+<br>
 BTC-Donation-Wallet: coming soon
+<br>
 Ethereum-Donation-Wallet: 0x39f9fa7e1B85000005F94a0b092dAF2891373344
+<br>
 IOTA-Donation-Wallet: XTJNMRNMIMEDYKBBWTWXUPYQOUBSENETNYUXKMOWFEIV9OSCHUQAXOLBDVHVVWUXBRZSWJFZNBLOEYZAYUKLGMIMID
+<br>
 
 </body>
 </html>
